@@ -1,0 +1,1 @@
+el metodo main de la aplicacion esta en la clase "Principal.java"
